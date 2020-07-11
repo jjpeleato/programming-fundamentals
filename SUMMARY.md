@@ -2,13 +2,13 @@
 
 * [Introducción](README.md)
 
-## Conceptos básicos
+## Módulo 1: Conceptos básicos <a id="conceptos-basicos"></a>
 
-* [¿Qué es?](conceptos-basicos/que-es.md)
+* [1.1 ¿Qué es?](conceptos-basicos/que-es.md)
 
-## Algoritmia
+## Módulo 2: Algoritmia <a id="algoritmia"></a>
 
-* [¿Qué es?](algoritmia/que-es.md)
+* [2.1 ¿Qué es?](algoritmia/que-es.md)
 
 ## Terminología
 
