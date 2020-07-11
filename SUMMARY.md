@@ -9,6 +9,7 @@
 ## Módulo 2: Algoritmia <a id="algoritmia"></a>
 
 * [2.1 ¿Qué es?](algoritmia/que-es.md)
+* [2.2 Hashing](algoritmia/2.2-hashing.md)
 
 ## Terminología
 
