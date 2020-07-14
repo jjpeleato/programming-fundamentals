@@ -2,9 +2,10 @@
 
 * [Introducción](README.md)
 
-## Módulo 1: Conceptos básicos <a id="conceptos-basicos"></a>
+## Módulo 1: Programación <a id="conceptos-basicos"></a>
 
 * [1.1 ¿Qué es?](conceptos-basicos/que-es.md)
+* [1.2 Conceptos básicos](conceptos-basicos/1.2-conceptos-basicos.md)
 
 ## Módulo 2: Algoritmia <a id="algoritmia"></a>
 
