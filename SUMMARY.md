@@ -12,7 +12,8 @@
 * [2.1 ¿Qué es?](algoritmia/que-es.md)
 * [2.2 Hashing](algoritmia/2.2-hashing.md)
 * [2.3 Recursividad](algoritmia/2.3-recursividad.md)
-* [2.4 Backtracking](algoritmia/2.3-backtracking.md)
+* [2.4 Backtracking](algoritmia/2.4-backtracking.md)
+* [2.5 Algoritmos de búsqueda](algoritmia/2.5-algoritmos-de-busqueda.md)
 
 ## Terminología
 
