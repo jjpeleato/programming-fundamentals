@@ -9,11 +9,11 @@
 
 ## Módulo 2: Algoritmia <a id="algoritmia"></a>
 
-* [2.1 ¿Qué es?](algoritmia/que-es.md)
-* [2.2 Hashing](algoritmia/2.2-hashing.md)
-* [2.3 Recursividad](algoritmia/2.3-recursividad.md)
-* [2.4 Backtracking](algoritmia/2.4-backtracking.md)
-* [2.5 Algoritmos de búsqueda](algoritmia/2.5-algoritmos-de-busqueda.md)
+* [2.1 ¿Qué es?](algoritmia/que-es-algoritmia.md)
+* [2.2 Hashing](algoritmia/hashing.md)
+* [2.3 Recursividad](algoritmia/recursividad.md)
+* [2.4 Backtracking](algoritmia/backtracking.md)
+* [2.5 Algoritmos de búsqueda](algoritmia/algoritmos-de-busqueda.md)
 
 ## Terminología
 

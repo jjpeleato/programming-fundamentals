@@ -15,7 +15,7 @@ description: >-
 
 O lo que es lo mismo, es una **estrategia algorítmica que busca todas las posibles soluciones dado un conjunto de variables inicial** para encontrar el resultado definido por el problema.
 
-La técnica de **Backtracking** se apoya en el uso de la [recursividad](2.3-recursividad.md) para la búsqueda exhaustiva de todas las combinaciones posibles.
+La técnica de **Backtracking** se apoya en el uso de la [recursividad](recursividad.md) para la búsqueda exhaustiva de todas las combinaciones posibles.
 
 El termino fue utilizado por primera vez por el matemático [D.H. Lehmer](https://es.wikipedia.org/wiki/Derrick_Henry_Lehmer) en la década de 1950.
 
@@ -32,9 +32,9 @@ Dado un conjunto de números enteros {14, 10, 6} encontrar si existe algún subc
 Se suele aplicar en la resolución de un gran número de problemas, muy especialmente en los de **decisión** y **optimización**.
 
 * **Problemas de decisión**: Búsqueda de las soluciones que satisfacen ciertas restricciones.
-  * Ejemplo: [Problema de las N-Reinas](2.4-backtracking.md#2-4-5-caso-practico-el-problema-de-las-8-reinas).
+  * Ejemplo: [Problema de las N-Reinas](backtracking.md#2-4-5-caso-practico-el-problema-de-las-8-reinas).
 * **Problemas de optimización**: Búsqueda de la mejor solución en base a una función objetivo.
-  * Ejemplo: [Problema de la mochila](2.4-backtracking.md#2-4-7-extra).
+  * Ejemplo: [Problema de la mochila](backtracking.md#2-4-7-extra).
 
 {% hint style="danger" %}
 **Los algoritmos de tipo Backtracking suelen ser muy ineficientes**. Aunque se utilizan para resolver problemas para los que no existe un algoritmo eficiente.

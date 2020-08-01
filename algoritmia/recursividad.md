@@ -32,8 +32,8 @@ Podemos transformar en muchos casos los algoritmos recursivos en iterativos con 
 
 **Tipos de algoritmos recursivos:**
 
-* **Lineales**: Cada invocación genera una nueva invocación y sólo una, excepto la última. Ejemplo: Calcular el [factorial de un número](2.3-recursividad.md#2-3-4-caso-practico-2-factorial-de-n).
-* **Múltiples**: Una misma invocación puede generar más de una invocación. Ejemplo: [Fibonacci](2.3-recursividad.md#2-3-6-caso-practico-4-fibonacci).
+* **Lineales**: Cada invocación genera una nueva invocación y sólo una, excepto la última. Ejemplo: Calcular el [factorial de un número](recursividad.md#2-3-4-caso-practico-2-factorial-de-n).
+* **Múltiples**: Una misma invocación puede generar más de una invocación. Ejemplo: [Fibonacci](recursividad.md#2-3-6-caso-practico-4-fibonacci).
 
 En general las soluciones recursivas son:
 
