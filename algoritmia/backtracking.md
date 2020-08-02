@@ -399,13 +399,9 @@ Ejemplo en JavaScript:
 
 ### 2.4.11 Caso práctico B&B: Ejercicio 1
 
-\[...\]
+{% file src="../.gitbook/assets/backtracking\_exercise\_1.pdf" caption="Ejercicio Backtracking B&B" %}
 
-### 2.4.12 Caso práctico B&B: Ejercicio 2
-
-\[...\]
-
-### 2.4.13 Otros casos prácticos
+### 2.4.12 Otros casos prácticos
 
 Otros problemas que se pueden resolver con Backtracking:
 
@@ -415,7 +411,7 @@ Otros problemas que se pueden resolver con Backtracking:
 4. [Problema de los cuadrados mágicos](https://es.wikipedia.org/wiki/Cuadrado_m%C3%A1gico).
 5. Sudoku
 
-### 2.4.14 Extra
+### 2.4.13 Extra
 
 {% embed url="https://www.youtube.com/watch?v=XQYGwKiqV3Y" %}
 
@@ -423,7 +419,7 @@ Otros problemas que se pueden resolver con Backtracking:
 
 {% embed url="https://www.youtube.com/watch?v=ifXvZ8qfIiU" %}
 
-### 2.4.15 Bibliografía
+### 2.4.14 Bibliografía
 
 Referencias en español:
 
