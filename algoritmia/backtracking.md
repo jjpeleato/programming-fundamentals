@@ -397,9 +397,9 @@ Ejemplo en JavaScript:
 
 [http://jsfiddle.net/rocketegg0/wu6cpp5v/](http://jsfiddle.net/rocketegg0/wu6cpp5v/)
 
-### 2.4.11 Caso práctico B&B: Ejercicio 1
+### 2.4.11 Caso práctico B&B
 
-{% file src="../.gitbook/assets/backtracking\_exercise\_1.pdf" caption="Ejercicio Backtracking B&B" %}
+{% file src="../.gitbook/assets/backtracking\_branch\_bound.pdf" %}
 
 ### 2.4.12 Otros casos prácticos
 
