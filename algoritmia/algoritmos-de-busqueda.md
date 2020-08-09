@@ -16,7 +16,11 @@
 
 \[...\]
 
-### 2.5.5 Patrones de búsqueda
+### 2.5.5 Árboles de búsqueda balanceados \(AVL\)
+
+\[...\]
+
+### 2.5.6 Patrones de búsqueda
 
 \[...\]
 
