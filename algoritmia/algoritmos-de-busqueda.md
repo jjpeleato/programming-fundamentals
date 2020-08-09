@@ -12,7 +12,7 @@
 
 \[...\]
 
-### 2.5.4 Árboles de búsqueda
+### 2.5.4 Árboles de búsqueda \(ABB\)
 
 \[...\]
 
