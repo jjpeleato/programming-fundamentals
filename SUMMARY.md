@@ -13,7 +13,7 @@
 * [2.3 Recursividad](algoritmia/recursividad.md)
 * [2.4 Backtracking](algoritmia/backtracking.md)
 * [2.5 Algoritmos de búsqueda](algoritmia/algoritmos-de-busqueda.md)
-* [2.6 Algoritmos de clasificación](algoritmia/2.6-algoritmos-de-clasificacion.md)
+* [2.6 Algoritmos de clasificación](algoritmia/algoritmos-de-clasificacion.md)
 
 ## Terminología
 
