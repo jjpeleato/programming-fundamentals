@@ -16,7 +16,7 @@
 
 \[...\]
 
-### 2.5.5 Árboles de búsqueda balanceados \(AVL\)
+### 2.5.5 Árboles de búsqueda binarios balanceados \(AVL\)
 
 \[...\]
 
