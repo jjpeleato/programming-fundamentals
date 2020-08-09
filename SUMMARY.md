@@ -4,7 +4,7 @@
 
 ## Módulo 1: Programación
 
-* [1.1 ¿Qué es?](modulo-1-programacion/1.1-que-es.md)
+* [1.1 ¿Qué es?](modulo-1-programacion/que-es-programacion.md)
 
 ## Módulo 2: Algoritmia <a id="algoritmia"></a>
 
@@ -13,6 +13,7 @@
 * [2.3 Recursividad](algoritmia/recursividad.md)
 * [2.4 Backtracking](algoritmia/backtracking.md)
 * [2.5 Algoritmos de búsqueda](algoritmia/algoritmos-de-busqueda.md)
+* [2.6 Algoritmos de clasificación](algoritmia/2.6-algoritmos-de-clasificacion.md)
 
 ## Terminología
 
