@@ -2,9 +2,9 @@
 
 * [Introducción](README.md)
 
-## Módulo 1: Programación
+## Módulo 1: Programación <a id="programacion"></a>
 
-* [1.1 ¿Qué es?](modulo-1-programacion/que-es-programacion.md)
+* [1.1 ¿Qué es?](programacion/que-es-programacion.md)
 
 ## Módulo 2: Algoritmia <a id="algoritmia"></a>
 
