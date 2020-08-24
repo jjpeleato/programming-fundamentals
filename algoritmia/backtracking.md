@@ -399,7 +399,7 @@ Ejemplo en JavaScript:
 
 ### 2.4.11 Caso práctico B&B
 
-{% file src="../.gitbook/assets/backtracking\_branch\_bound.pdf" %}
+{% file src="../.gitbook/assets/backtracking\_branch\_bound.pdf" caption="backtracking\_branch\_bound" %}
 
 ### 2.4.12 Otros casos prácticos
 
